@@ -1,0 +1,6 @@
+{
+  "name": "AnonPDF",
+  "description": "Private, client-side PDF reader, editor, annotator, and multi-tool suite with zero tracking and zero server uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
